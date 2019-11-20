@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/Strategy/code/Duck.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Strategy/code/Main.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Strategy/code/MallardDuck.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Strategy/code/behavior/Impl/flyByWings.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Strategy/code/behavior/Impl/flyNo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Strategy/code/behavior/Impl/singNo.java" charset="GBK" />
+  </component>
+</project>
